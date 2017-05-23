@@ -28,9 +28,9 @@ then docker log print username and password, and password change policy.
 ----- ----- ----- ----- -----
 ----- ----- ----- ----- -----
 ----- ----- ----- ----- -----
-ssh user: *** (created by env)
-ssh user password: *** (created by env)
-ssh secure password change every 1 minutes [disabled]
+ssh user: XXXXXXXX
+ssh user password: XXXXXXXXXXXXXXXX
+ssh secure password change every 30 minutes [enabled]
 ----- ----- ----- ----- -----
 ----- ----- ----- ----- -----
 ----- ----- ----- ----- -----
