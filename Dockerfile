@@ -1,4 +1,4 @@
-FROM centos:6.8
+FROM centos:7.3.1611
 MAINTAINER centos for cloud <https://hub.docker.com/u/ssorg/>
 
 RUN yum -y install openssh-server sudo python-setuptools; yum clean all
